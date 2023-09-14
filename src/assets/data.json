@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Hello World!",
+      "poster": "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_640.jpg",
+      "author": "Daniel",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    },
+    {
+      "id": 2,
+      "title": "Success is a steps",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU7QbZ7Ps_hMspbECRCvLeT4GZC7h8HI2AIGrqbEKX&s",
+      "author": "Gad",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    },
+    {
+      "id": 3,
+      "title": "Consistency Matters!",
+      "poster": "https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819_640.jpg",
+      "author": "DanielGad",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    },
+    {
+      "id": 4,
+      "title": "Savouring Simplicity",
+      "poster": "https://thumbs.dreamstime.com/b/spring-flowers-blue-crocuses-drops-water-backgro-background-tracks-rain-113784722.jpg",
+      "author": "Daniel",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    },
+    {
+      "id": 5,
+      "title": "Pilates for the People",
+      "poster": "https://img.freepik.com/premium-photo/crocus-flowers-rain_818261-2288.jpg",
+      "author": "Gad",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    },
+    {
+      "id": 6,
+      "title": "Beside The Point",
+      "poster": "https://i.pinimg.com/originals/a0/30/69/a030693ce546ea928834f3adedde235e.png",
+      "author": "DanielGad",
+      "body": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure enim nulla dicta sit alias, culpa vero voluptatibus quam quidem quae quos, ex doloribus laudantium magnam accusantium? Cupiditate eveniet qui aspernatur?"
+    }
+  ]
+}

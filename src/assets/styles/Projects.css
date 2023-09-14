@@ -1,0 +1,35 @@
+.project-hid {
+  visibility: hidden;
+}
+
+.project {
+  width: 80%;
+  margin: auto;
+  background-color: rgb(30,34,43);
+}
+
+.prooo {
+  margin-top: 40px;
+}
+
+.project h1 {
+  margin: auto;
+  background-color: rgb(30,34,43);
+  padding: 10px 0;
+  font-size: 30px;
+  border-bottom: 3px solid orange;
+  padding-left: 20px;
+}
+
+.pro-a {
+  padding: 20px;
+}
+
+.shots {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.imggg {
+  width: 100%;
+}

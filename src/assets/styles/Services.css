@@ -1,0 +1,46 @@
+.service-hid {
+  visibility: hidden;
+}
+
+.service {
+  margin-top: 40px;
+}
+
+.service h1 {
+  background-color: #1c192e;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  padding: 10px 0;
+  border-bottom: 3px solid orange;
+  font-size: 30px;
+}
+
+.ser-a {
+  background-color: #1c192e;
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+
+.ser-a-a, .ser-a-b, .ser-a-c {
+  background-color: rgb(13,16,19);
+  text-align: center;
+  padding: 20px;
+  width: 35%;
+  text-align: justify;
+  font-size: small;
+  border: 1px solid white;
+}
+
+.ser-a-b {
+  background-color: rgb(34,45,60)
+}
+
+.ser-a-c {
+  background-color: rgb(13,16,19);
+}
+
+.ser-a-a li, .ser-a-b li, .ser-a-c li {
+  margin-bottom: 10px;
+}

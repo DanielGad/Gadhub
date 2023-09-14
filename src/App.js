@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import {BrowserRouter as Router} from 'react-router-dom';
+import Navbar from "./components/Navbar";
+import Main from "./components/Main";
+import About from "./components/About";
+import Services from "./components/Services";
+import Project from "./components/Projects";
 
-function App() {
+import { useEffect } from "react";
+import Blog from "./components/Blog";
+import Contact from "./components/Contact";
+
+const App = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Router>
+      <div>
+        <Navbar />
+          <Main />
+          <About />
+          <Services />
+          <Project />
+          <Blog />
+          <Contact />
     </div>
-  );
+    </Router>
+  )
 }
 
-export default App;
+export default App

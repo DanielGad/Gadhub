@@ -1,0 +1,62 @@
+.main-hid {
+  visibility: hidden;
+}
+
+.con1 {
+  position: relative;
+  width: 80%;
+  margin: auto;
+  margin-top: 120px;
+  height: 400px;
+  background-color: rgb(12, 12, 20);
+  box-shadow: 1px 1px 5px 5px rgb(26, 26, 39);
+  animation: glowing 1s infinite alternate;
+}
+
+@keyframes glowing {
+  from {
+      background-color: #1c192e;
+      background-color: rgb(30, 39, 48);
+      box-shadow: 1px 1px 5px 5px rgb(26, 26, 39);
+  }
+  to {
+      background-color: #17141f;
+      background-color: #1c192e;
+      box-shadow: 1px 1px 5px 5px rgb(6, 6, 8);
+  }
+}
+
+.con1 h3 {
+  position: absolute;
+  left: 120px;
+  top: 40px;
+  color: orange;
+  font-size: 20px;
+}
+
+.con1 h1 {
+  position: absolute;
+  left: 120px;
+  top: 50px;
+  width: 500px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 65px;
+  font-weight: bolder;
+  padding: 0;
+}
+
+.con1 h2 {
+  position: absolute;
+  left: 120px;
+  bottom: 30px;
+  color: orange;
+  font-size: 20px;
+}
+
+.Daniel {
+  position: absolute;
+  right: 80px;
+  width: 30%;
+  top: 50px;
+  border-radius: 200px;
+}
